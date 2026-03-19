@@ -1,7 +1,7 @@
 ## Hi there!! 👋, I'm Michele
 ---
 
-
+Bachelor Degree in Computer Engineering @ Università di Pisa
 
 <!--
 **mitch-noir/mitch-noir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
