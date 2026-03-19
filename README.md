@@ -1,8 +1,11 @@
 ## Hi there!! 👋, I'm Michele
 ---
 
+I am a software developer and a creative coder.
+
 Bachelor Degree in Computer Engineering @ Università di Pisa
 
+I have a instagram page where I share my attempts to fuse code and art: [mihel_noir](https://www.instagram.com/mihel_noir)
 <!--
 **mitch-noir/mitch-noir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
