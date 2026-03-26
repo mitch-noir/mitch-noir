@@ -5,7 +5,7 @@ I am a software developer and a creative coder.
 
 Bachelor Degree in Computer Engineering @ Università di Pisa
 
-I have a instagram page where I share my attempts to fuse code and art: [mihel_noir](https://www.instagram.com/mihel_noir)
+I have an instagram page where I share my attempts to fuse code and art: [mihel_noir](https://www.instagram.com/mihel_noir)
 
 ## 🛠️ Skills
 
