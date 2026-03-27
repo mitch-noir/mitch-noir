@@ -28,3 +28,4 @@ I have an instagram page where I share my attempts to fuse code and art: [mihel_
 
 ## 🚀 What I'm working on
 * Exploring creative coding and generative art
+* Studing Architectural design patterns
