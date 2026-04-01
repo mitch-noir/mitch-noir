@@ -29,4 +29,6 @@ I have an instagram page where I share my attempts to fuse code and art: [mihel_
 
 
 ## 🚀 What I'm working on
-* Studing Architectural design patterns
+* Improving my english level (**from B2 to C1**)
+* Deepening my **C++** knowledge
+* Exploring software design patterns
